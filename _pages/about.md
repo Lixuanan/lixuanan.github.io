@@ -9,12 +9,15 @@ redirect_from:
 
 This is Lixuan An's home on the web!
 
-Professional Interests
-======
+<br>
+
+## 📊 Professional Interests
+
 My professional interests are situated at the intersection of statistical theory and machine learning, with a specialized focus on extreme value analysis in my Ph.D. research. More generally, I enjoy working in the broad field of data science, and am passionate about translating advanced statistical and computational techniques into actionable insights across diverse sectors.
 
-Education
-======
+<br>
+
+## 🎓 Education
 
 * **Ph.D. in Mathematical Modelling** (10/2021 - 12/2025)
     * *Ghent University, Ghent, Belgium*
@@ -29,6 +32,8 @@ Education
     * *South-Central Minzu University, Wuhan, China*
     * Faculty of Mathematics and Statistics
 
-News
-======
+<br>
+
+## 🕒News
+
 
