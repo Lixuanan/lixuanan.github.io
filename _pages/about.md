@@ -9,13 +9,13 @@ redirect_from:
 
 This is Lixuan An's home on the web!
 
-<br>
+<div style="height: 30px;"></div>
 
 ## 📊 Professional Interests
 
 My professional interests are situated at the intersection of statistical theory and machine learning, with a specialized focus on extreme value analysis in my Ph.D. research. More generally, I enjoy working in the broad field of data science, and am passionate about translating advanced statistical and computational techniques into actionable insights across diverse sectors.
 
-<br>
+<div style="height: 30px;"></div>
 
 ## 🎓 Education
 
@@ -32,7 +32,7 @@ My professional interests are situated at the intersection of statistical theory
     * *South-Central Minzu University, Wuhan, China*
     * Faculty of Mathematics and Statistics
 
-<br>
+<div style="height: 30px;"></div>
 
 ## 🕒News
 
