@@ -16,6 +16,6 @@ author_profile: true
 
 ## 🎤 Conferences
 
-* **An, L.**, De Baets, B., & Luca, S. (2024). Group anomaly detection for optimizing urban planning of rental bike services. *26th International Conference on Computational Statistics (COMPSTAT)*.
-* **An, L.**, Shan, B., De Baets, B., & Luca, S. (2024). Analyzing patterns of extreme heat events in Europe using extreme value theory. *6th International Conference on Advances in Extreme Value Analysis and Application to Natural Hazard (EVAN)*.
-* **An, L.**, De Baets, B., & Luca, S. (2023). An extreme value support measure machine for group anomaly detection. *IMS International Conference on Statistics and Data Science (ICSDS)*.
+* **Lixuan An**, Bernard De Baets, and Stijn Luca. Group anomaly detection for optimizing urban planning of rental bike services. *26th International Conference on Computational Statistics (COMPSTAT)*, 2024.
+* **Lixuan An**, Baoying Shan, Bernard De Baets, and Stijn Luca. Analyzing patterns of extreme heat events in Europe using extreme value theory. *6th International Conference on Advances in Extreme Value Analysis and Application to Natural Hazard (EVAN)*, 2024.
+* **Lixuan An**, Bernard De Baets, and Stijn Luca. An extreme value support measure machine for group anomaly detection. *IMS International Conference on Statistics and Data Science (ICSDS)*, 2023.
