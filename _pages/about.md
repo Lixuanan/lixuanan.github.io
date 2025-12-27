@@ -35,5 +35,6 @@ My professional interests are situated at the intersection of statistical theory
 <div style="height: 5px;"></div>
 
 ## 🕒News
+* 10/11/2025 I successfully submitted my Ph.D. dissertation.
 
 
