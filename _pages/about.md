@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-======
+
 This is Lixuan An's home on the web!
 
 Professional Interests
@@ -18,13 +18,11 @@ Education
 
 * **Ph.D. in Mathematical Modelling** (10/2021 - 12/2025)
     * *Ghent University, Ghent, Belgium*
-    * **Thesis:** *Analysis of Exceedance Patterns in Distributional Tails based on Extreme Value Theory* (Dissertation Submitted)
     * Department of Data Analysis and Mathematical Modelling
     * Faculty of Bioscience Engineering
 
 * **M.Sc. in Applied Statistics** (09/2018 - 06/2021)
     * *Xi’an Jiaotong University, Xi’an, China*
-    * **Thesis:** *Fuzzy C-Means Clustering Ensemble for Urban Air Quality Analysis*
     * Faculty of Mathematics and Statistics
 
 * **B.Sc. in Applied Statistics** (09/2014 - 06/2018)
