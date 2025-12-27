@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+## 🐹 About me
 This is Lixuan An's home on the web!
 
 <div style="height: 5px;"></div>
