@@ -36,6 +36,7 @@ My professional interests are situated at the intersection of statistical theory
 <div style="height: 5px;"></div>
 
 ## 🕒News
+* 05/02/2026 I successfully defended my Ph.D. dissertation publicly and was awarded the Ph.D. degree! 🎓
 * 12/01/2026 I successfully passed my Ph.D. internal defense at Ghent University (with minor corrections) and was admitted to the public defense.
 * 10/11/2025 I successfully submitted my Ph.D. dissertation.
 
