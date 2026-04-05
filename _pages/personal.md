@@ -1,11 +1,23 @@
 ---
-layout: page  # 这里必须指定为你主题使用的通用页面布局，通常是 'page'
+layout: page
 title: Personal
 permalink: /personal/
 ---
 
 Outside of the research lab, I believe in maintaining a balanced life through active sports, continuous learning, and strategic play. Here is a glimpse into my interests.
 
-{% for section in site.data.personal_interests %}
-  {% include interest_card.html section_title=section.section interests_list=section.interests %}
-{% endfor %}
+### 🎂 Basic Information
+
+* **Birthday:** [November 1, 1996]
+* **Zodiac Sign:** [Scorpio]
+
+### 🏃‍♀️ Active Life & Sports
+
+* 🧗‍♀️ **Climbing & Bouldering:** I love the problem-solving, focus, and physical challenge of indoor bouldering. A great way to clear my mind.
+* 🏐 **Volleyball:** Recreational Volleyball. Enjoying casual games and teamwork with friends and colleagues.
+* 🏊‍♀️ **Swimming:** Occasional swimming for fitness.
+
+### 🧩 Interests & Skills
+
+* 🌐 **Languages:** Language learning enthusiast. Chinese (Native) 🇨🇳, English (Fluent) 🇺🇸, Korean (Learning) 🇰🇷.
+* 🎲 **Geeky Fun & Board Games:** Favorite strategy games and casual table-top adventures. Currently enjoying: Catan, Ticket to Ride.
