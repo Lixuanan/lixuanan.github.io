@@ -1,0 +1,25 @@
+- section: "Active Life & Sports"
+  interests:
+    - title: "Climbing & Bouldering"
+      icon: "climbing" # 这里对应你以后要下载的图片名，或者可以直接用 emoji：🧗‍♀️
+      emoji: "🧗‍♀️"
+      desc: "Bouldering: I love the problem-solving, focus, and physical challenge of indoor bouldering. A great way to clear my mind."
+    - title: "Volleyball"
+      icon: "volleyball"
+      emoji: "🏐"
+      desc: "Recreational Volleyball: Enjoying casual games and teamwork with friends and colleagues."
+    - title: "Swimming" # 你提到过，但图片里没放，这里可以选填
+      icon: "swimming"
+      emoji: "🏊‍♀️"
+      desc: "Occasional swimming for fitness."
+
+- section: "Interests & Skills"
+  interests:
+    - title: "Languages"
+      icon: "globe"
+      emoji: "🌐"
+      desc: "Language learning enthusiast. Chinese (Native) 🇨🇳, English (Fluent) 🇺🇸, Korean (Learning) 🇰🇷."
+    - title: "Geeky Fun & Board Games"
+      icon: "boardgames"
+      emoji: "🎲"
+      desc: "Favorite strategy games and casual table-top adventures. Currently enjoying: Catan, Ticket to Ride."
