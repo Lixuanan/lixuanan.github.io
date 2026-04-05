@@ -20,7 +20,7 @@ My professional interests are situated at the intersection of statistical theory
 
 ## 🎓 Education
 
-* **Ph.D. in Mathematical Modelling** (10/2021 - 02/2026)
+* **Ph.D. in Mathematical Modelling** (10/2021 - 03/2026)
     * *Ghent University, Ghent, Belgium*
     * Department of Data Analysis and Mathematical Modelling
     * Faculty of Bioscience Engineering
