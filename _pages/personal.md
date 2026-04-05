@@ -7,5 +7,5 @@ permalink: /personal/
 Outside of the research lab, I believe in maintaining a balanced life through active sports, continuous learning, and strategic play. Here is a glimpse into my interests.
 
 {% for section in site.data.personal_interests %}
-  {% include interest_card.html section_title=section.section title interests_list=section.interests %}
+  {% include interest_card.html section_title=section.section interests_list=section.interests %}
 {% endfor %}
