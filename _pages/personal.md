@@ -2,6 +2,7 @@
 layout: page
 title: Personal
 permalink: /personal/
+author_profile: true
 ---
 
 Outside of the research lab, I believe in maintaining a balanced life through active sports, continuous learning, and strategic play. Here is a glimpse into my interests.
