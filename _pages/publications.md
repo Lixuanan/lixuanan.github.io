@@ -19,3 +19,9 @@ author_profile: true
 * **Lixuan An**, Bernard De Baets, and Stijn Luca. Group anomaly detection for optimizing urban planning of rental bike services. *26th International Conference on Computational Statistics (COMPSTAT)*, 2024.
 * **Lixuan An**, Baoying Shan, Bernard De Baets, and Stijn Luca. Analyzing patterns of extreme heat events in Europe using extreme value theory. *6th International Conference on Advances in Extreme Value Analysis and Application to Natural Hazard (EVAN)*, 2024.
 * **Lixuan An**, Bernard De Baets, and Stijn Luca. An extreme value support measure machine for group anomaly detection. *IMS International Conference on Statistics and Data Science (ICSDS)*, 2023.
+
+
+## ☀️ Summer School
+
+* *Extreme Value Analysis and Precipitation Extremes*, Lausanne, Switzerland, 2024.
+* *The SIPTA (Society for Imprecise Probabilities: Theories and Applications) School on Imprecise Probabilities*, Ghent, Belgium, 2024.
