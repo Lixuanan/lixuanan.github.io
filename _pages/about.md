@@ -36,8 +36,8 @@ My professional interests are situated at the intersection of statistical theory
 <div style="height: 5px;"></div>
 
 ## 🕒News
-* 16/06/2026 Our paper has successfully been accepted by *Sustainable Cities and Society* (IF = 13.3, JCR Q1, CAS(中科院) 1区Top).
-* 05/02/2026 I successfully defended my Ph.D. dissertation publicly and was awarded the Ph.D. degree! 🎓
+* 16/06/2026 Our paper has successfully been accepted by *Sustainable Cities and Society* (IF = **13.3**, JCR **Q1**, CAS(中科院) **1区Top**). 🎉
+* 05/02/2026 I successfully defended my Ph.D. dissertation publicly and was awarded the **Ph.D. degree**! 🎓
 * 12/01/2026 I successfully passed my Ph.D. internal defense at Ghent University (with minor corrections) and was admitted to the public defense.
 * 10/11/2025 I successfully submitted my Ph.D. dissertation.
 
