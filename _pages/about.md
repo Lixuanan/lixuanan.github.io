@@ -30,7 +30,7 @@ My professional interests are situated at the intersection of statistical theory
     * Faculty of Mathematics and Statistics
 
 * **B.Sc. in Applied Statistics** (09/2014 - 06/2018)
-    * *South-Central Minzu University, Wuhan, China*
+    * *South-Central University for Nationalities, Wuhan, China*
     * Faculty of Mathematics and Statistics
 
 <div style="height: 5px;"></div>
